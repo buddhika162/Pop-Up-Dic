@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Activate before use</string>
+    <string name="app_name">Pop-Up-Dic</string>
+    <string name="Activate">Activate</string>
+    <string name="Activated">Activated</string>
+    <string name="Deactivate">Deactivate</string>
+    <string name="Exit">Exit</string>
+    <string name="Find">Find</string>
+    <string name="descr_overflow_button">Exit</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
